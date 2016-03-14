@@ -1,0 +1,11 @@
+We identified gene coexpression networks in the transcriptome of developing T1 (T1 thaliana) T3 from the T4to mature T6 T4 by analyzing publicly accessible microarray datasets.
+We identified gene coexpression networks in the transcriptome of developing T1 (T1 thaliana) T3 from the T4to T5 by analyzing publicly accessible microarray datasets.
+Genes encoding the known enzymes in the T7 were found in one coexpression subnetwork (or cluster), while genes encoding T8 and T9 were identified in another subnetwork with a distinct expression profile.
+Genes encoding the known enzymes in the T7 were found in one coexpression subnetwork (or cluster), while genes encoding T8 and T10 storage proteins were identified in another subnetwork with a distinct expression profile.
+In the T11, only the genes encoding T12 (T13) and a putative cytosolic "type 3" T14 exhibited a similar expression pattern with genes encoding T15.
+We also detected a large number of putative T16 in the promoter regions of these genes, and promoter motifs for T17 (T18), T19 (T20), T21, and T22 transcription factors (TF), as well as T23 (T24), are overrepresented in the T25.
+We also detected a large number of putative T16 in the promoter regions of these genes, and promoter motifs for T17 (T18), T19 (T20), T21, and T22 transcription factors (TF), as well as T23 (T24), are overrepresented in the promoter regions of T26 genes.
+The conserved T27 motifs for T28 and binding sites for T29 (T30) TFs are enriched in the T31 and T32.
+The conserved T27 motifs for T28 and binding sites for T29 (T30) TFs are enriched in the T32 oleosins and T32.
+The conserved T27 motifs for T28 and binding sites for T29 (T30) TFs are enriched in the T31 and T34.
+The conserved T27 motifs for T28 and binding sites for T29 (T30) TFs are enriched in the T31 and T32.

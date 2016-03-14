@@ -1,0 +1,4 @@
+The gene abbreviations are as follows: T1: T2; T3: T4; T5: T6; T7: T6 LIKE; T9: T10; T11: T12; T13: T15 EM (EMBRYO MORPHOGENESIS) T14; T16: T17; T18: T19; T20: T21; T22: T23.
+The gene abbreviations are as follows: T1: T2; T3: T4; T5: T6; T7: T6 LIKE; T9: T10; T11: T12; T13: T15EMBRYO MORPHOGENESIS) T14; T16: T17; T18: T19; T20: T21; T22: T23.
+The gene abbreviations are as follows: T1: T2; T3: T4; T5: T6; T7: T6 LIKE; T9: T10; T11: T12; T13: T15 EM (EMBRYO MORPHOGENESIS) T14; T16: T17; T18: T19; T20: T21; T22: T23.
+To computationally identify cis-acting regulatory elements, the upstream promoter sequences for the genes involved in T24 were extracted from the RSAT server [73].

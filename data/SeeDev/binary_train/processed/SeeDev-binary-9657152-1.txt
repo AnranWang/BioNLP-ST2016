@@ -1,0 +1,17 @@
+The T1 T2 (T3) gene is required for the T4 and the T7.
+The T1 T2 (T3) gene is required for the specification of T5 and the T7.
+The T1 T2 (T3) gene is required for the T4 and the completion of T8 maturation.
+We isolated the T9 gene and showed that it functions at an T10 to T11.
+The T12 gene encodes a transcription factor homolog, the T13.
+The T12 gene encodes a transcription factor homolog, the T14 box–binding factor T15 subunit.
+T17 RNA accumulates only during T18 in T20 and in T21.
+T16 accumulates only during T18 in T20 and in T21.
+T17 RNA accumulates only during T19 development in T20 and in T21.
+T22 induces the expression of T25 and initiates T27.
+Ectopic postembryonic expression of the T23 gene in T24 induces the expression of T25 and initiates T27.
+T22 induces the expression of T26-specific genes and initiates formation of T26-like structures.
+T22 induces the expression of T25 and initiates formation of T29-like structures.
+Our results suggest that T30 is an important regulator of T31 that activates the transcription of T34 both T34 and T33.prs.rt("abs_end");
+Our results suggest that T30 is an important regulator of T32 development that activates the transcription of T34 both T32 morphogenesis and T33.prs.rt("abs_end");
+Our results suggest that T30 is an important regulator of T31 that activates the transcription of T34 both T36 morphogenesis and T33.prs.rt("abs_end");
+Our results suggest that T30 is an important regulator of T31 that activates the transcription of T34 both T34 and T37.prs.rt("abs_end");

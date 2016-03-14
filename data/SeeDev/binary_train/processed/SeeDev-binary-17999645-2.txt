@@ -1,0 +1,10 @@
+T1, a member of the core T3/T4 complex, was recovered as an T6-interacting protein.
+T1, a member of the core T2, was recovered as an T6-interacting protein.
+T1, a member of the core T3/T4 complex, was recovered as an T5.
+The T8/T9 complex generally consists of eight proteins: T83, T91, T92, T13, T14, T15, T16 and T17.
+The T7 generally consists of eight proteins: T10, T91, T92, T13, T14, T15, T16 and T17.
+However, T18 has only one T19, and lacks the T20 (reviewed by Silverstein and Ekwall, 2005).
+T21 has two T22 orthologs, T23 (T24) and T25 (T26), and the T21 ortholog of T29 has recently been shown to interact directly with T23 (Song and Galbraith, 2006).
+T21 has two T22 orthologs, T23 (T24) and T25 (T26), and the T21 ortholog of T29 has recently been shown to interact directly with T23 (Song and Galbraith, 2006).
+We show here that T31 is also able to interact with T32, and that T33 can directly interact with T34 (Figure 1).
+Although the T35 alone is not sufficient to mediate an interaction between T36 and T37, it is necessary (Figure 1).

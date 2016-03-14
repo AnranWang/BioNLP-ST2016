@@ -1,0 +1,32 @@
+The two apparently critical residues are located within a stretch of more than 100 amino acids, about one-third of the T1 sequence, which exhibits significant sequence similarity to a distinct domain, T2 or T3 (Giraudat et al. 1992), characteristic of T5/T6-like proteins.
+The two apparently critical residues are located within a stretch of more than 100 amino acids, about one-third of the T1 sequence, which exhibits significant sequence similarity to a distinct domain, T2 or T3 (Giraudat et al. 1992), characteristic of T4.
+These factors are transcriptional regulators, most of them involved in the control of T7 (Bobb et al. 1995 ;Hattori et al. 1994 ;Hoecker et al. 1995 ;McCarty et al. 1991 ;Nakagawa et al. 1996 ;Nambara et al. 1992 ;Nambara et al. 1995 ;Ooms et al. 1993 ;Parcy et al. 1994).
+These factors are transcriptional regulators, most of them involved in the control of T8 (Bobb et al. 1995 ;Hattori et al. 1994 ;Hoecker et al. 1995 ;McCarty et al. 1991 ;Nakagawa et al. 1996 ;Nambara et al. 1992 ;Nambara et al. 1995 ;Ooms et al. 1993 ;Parcy et al. 1994).
+Recently, a group of transcription factors involved in T10 has been described (Ulmasov et al. 1997).
+However, the T11 present in several of these proteins have less resemblance to T12, T13, T14 (Fig. 5a), as well as to the presumed T13/T14 orthologs of T18 and T19 (Bobb et al. 1995 ;Hattori et al. 1994) which can be grouped together.
+However, the T11 present in several of these proteins have less resemblance to T12, T13, T15 (Fig. 5a), as well as to the presumed T13/T15 orthologs of T18 and T19 (Bobb et al. 1995 ;Hattori et al. 1994) which can be grouped together.
+It is known that the T20, when taken out of its native context, binds T22 to the DNA element T23 (Suzuki et al. 1997).
+It is known that the B3 domain of T21, when taken out of its native context, binds T22 to the DNA element T23 (Suzuki et al. 1997).
+It is likely, therefore, that the T24 similarly mediates binding to specific promoter sequences (Bäumlein et al. 1994).
+It is likely, therefore, that the B3 domain of T25 similarly mediates binding to specific promoter sequences (Bäumlein et al. 1994).
+The same applies to T27 (Nambara et al. 1995 ;Parcy et al. 1994).
+The same applies to T26 (Nambara et al. 1995 ;Parcy et al. 1994).
+During T28 the T30 transcript becomes detectable T31 paralleled by the appearance of the T33 mRNA.
+During T28 the T29 becomes detectable T31 paralleled by the appearance of the T33 mRNA.
+During T28 the T30 transcript becomes detectable T31 paralleled by the appearance of the T34 mRNA.
+The finding of co-expression at differing levels, however, is consistent with the fact that T35 and T37, in a combinatorial and synergistic fashion, control overlapping yet not identical aspects of T38 T39 (Parcy et al. 1997).
+The finding of co-expression at differing levels, however, is consistent with the fact that T35 and T36, in a combinatorial and synergistic fashion, control overlapping yet not identical aspects of T38 T39 (Parcy et al. 1997).
+The finding of co-expression at differing levels, however, is consistent with the fact that T35 and T37, in a combinatorial and synergistic fashion, control overlapping yet not identical aspects of T38 T40 maturation (Parcy et al. 1997).
+Future studies will have to elucidate to what extent structural similarities of T41 and T43 contribute to this synergism.
+Future studies will have to elucidate to what extent structural similarities of T41 and T42 contribute to this synergism.
+So far, T44 is the smallest member of the protein family characterized by T46/T47-like T49 (Fig. 6).
+So far, T44 is the smallest member of the protein family characterized by T45 (Fig. 6).
+So far, T44 is the smallest member of the protein family characterized by T46/T48-like T49 (Fig. 6).
+T50 and T52, as well as their presumed orthologs in T53 (Bobb et al. 1995) or T54 (Hattori et al. 1994), have two additional basic domains, T55 and T56 (Giraudat et al. 1992 ;Hill et al. 1996), preceding T57.
+T50 and T51, as well as their presumed orthologs in T53 (Bobb et al. 1995) or T54 (Hattori et al. 1994), have two additional basic domains, T55 and T56 (Giraudat et al. 1992 ;Hill et al. 1996), preceding T57.
+In T58, T59 is absent but, to a small extent, there is sequence similarity to T60 (Fig. 5b).
+Moreover, the T61 includes an acidic stretch and an amide sequence typically found in transcriptional activation domains.
+Moreover, the C-terminal portion of T62 downstream of the T63 includes an acidic stretch and an amide sequence typically found in transcriptional activation domains.
+Such properties have indeed been shown for the T64 and the T66 T67/T69 ortholog (Bobb et al. 1995 ;McCarty et al. 1991).
+Such properties have indeed been shown for the N-terminal acidic portions of T65 and the T66 T65/T69 ortholog (Bobb et al. 1995 ;McCarty et al. 1991).
+Such properties have indeed been shown for the T64 and the T66 T67/T68 ortholog (Bobb et al. 1995 ;McCarty et al. 1991).

@@ -1,0 +1,9 @@
+Transcription of T1 T2 (MAT) genes is controlled by members of several transcription factor families, such as T4 (T5), T6, T7, and T8.
+Transcription of T1 T3 maturation (MAT) genes is controlled by members of several transcription factor families, such as T4 (T5), T6, T7, and T8.
+In this work, we identify T9 T10 as a novel transcriptional regulator of MAT genes. T10 expression in T12 precedes and overlaps that of its target genes.
+Gain- and loss-of-function approaches indicate a correlation between the amount of T13 protein and MAT gene expression.
+Specific T14 and T15 binding of T16 protein to a T17 element in the T18 is demonstrated.
+Importantly, heterodimerization with T19 or T20, previously described T21 regulators of MAT gene expression, significantly enhances DNA binding activity and produces a synergistic increase in target gene activation.
+Full-level target gene activation is strongly correlated with the ratio of the correspondent T22 heterodimerization partners.
+Whereas T23 does not interact with T24, a crucial transcriptional regulator in T25 T26, ternary complex formation between the T27 heterodimers and T24 increases the expression of MAT genes T29.
+We therefore propose that heterodimers containing T30 participate in enhanceosome formation to produce a dramatic increase in MAT gene transcription.

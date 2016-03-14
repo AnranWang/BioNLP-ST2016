@@ -1,0 +1,14 @@
+Genetic and physiological studies have shown that the T1 T2 (T4) loci interact to regulate T6-specific and/or ABA-inducible T5.
+Genetic and physiological studies have shown that the T1 T3-insensitive (T4) loci interact to regulate T6-specific and/or ABA-inducible T5.
+Genetic and physiological studies have shown that the T1 T2 (T4) loci interact to regulate T5 and/or ABA-inducible T5.
+Genetic and physiological studies have shown that the T1 T2 (T4) loci interact to regulate T6-specific and/or T8-inducible gene expression.
+We have used the T9 assay to determine whether any of these genetic interactions reflect direct physical interactions.
+By this criterion, only T10 and T11 physically interact with each other, and T11 can form homodimers.
+The T13 of T14 is essential for this interaction; this is the first specific function ascribed to this domain of the T14/VP1 family.
+The T13 of T14 is essential for this interaction; this is the first specific function ascribed to this domain of the T14/VP1 family.
+The T13 of T14 is essential for this interaction; this is the first specific function ascribed to this domain of the T14/T18 family.
+The T20 domains required for interaction with T21 include two conserved charged domains in the amino-terminal half of the protein.
+The T19 required for interaction with T21 include two conserved charged domains in the amino-terminal half of the protein.
+An additional conserved charged domain appears to have intrinsic transcription activation function in this assay.
+T22 assays with a T23 reporter gene under control of the T24-abundant T26 promoter show that only T27 binds directly to this promoter fragment.
+T22 assays with a T23 reporter gene under control of the T24-abundant T25 show that only T27 binds directly to this promoter fragment.

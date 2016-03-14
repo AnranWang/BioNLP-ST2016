@@ -1,0 +1,93 @@
+In this work, we used a combination of coimmunoprecipitation based on the T1 variant T2 as a protein tag and LC/MALDI-TOF/MS to identify proteins associated with the membrane receptor T3.
+Based on our data with other membrane proteins from T4, this technique appears to be of general use.
+Compared with other techniques to identify interacting proteins, such as T5 pulldown assays and T6 screens, the main advantage is that the immunoprecipitation combined with LC/MALDI-TOF/MS allows protein complex isolation under native conditions, therefore allowing functional studies in which the activity or posttranslational modification of one or several proteins in the complex can be examined (Drewes and Bouwmeester, 2003).
+Another advantage is that the T7 tag allows one to directly follow all subcellular localizations of the fusion proteins.
+This allows predictions concerning the nature of the proteins recovered, especially in the case of T8 undergoing recycling (Russinova et al., 2004).
+Other tags have been used, such as tandem affinity purification tags for T9 protein complex isolation in a transient expression system or in stably transformed T10, using the T12 mosaic virus 35S promoter (Rohila et al., 2004; Rubio et al., 2005).
+Other tags have been used, such as tandem affinity purification tags for T9 protein complex isolation in a transient expression system or in stably transformed T10, using the T11 (Rohila et al., 2004; Rubio et al., 2005).
+Our procedure differs in several respects: we used an endogenous promoter-based construct and only used CFP as a protein tag, thereby minimizing potential biological problems arising from the use of strong constitutive promoters.
+Also, we used integral membrane protein as a bait, rather than the soluble proteins used previously.
+T13 and T14 A highly interesting finding was the identification of two members of the T15, the main T16 T17 (Li and Chory, 1997) and its coreceptor T18 (T19) (Li et al., 2002; Nam and Li, 2002), as components of the T13 complex.
+T13 and T14 A highly interesting finding was the identification of two members of the T15, the main T16 T17 (Li and Chory, 1997) and its coreceptor T18 (T19) (Li et al., 2002; Nam and Li, 2002), as components of the T13 complex.
+This finding implies that T22 is a previously unrecognized element of T23.
+Recently, we showed that the T24 receptor may have a role in the internalization of T25 after heterodimerization and that T25 can also form homodimers in the T27 (Russinova et al., 2004).
+Further biochemical evidence comes from the finding here that T28 and T29 as well as T29 and T31 can interact in the T32.
+Further biochemical evidence comes from the finding here that T28 and T29 as well as T29 and T31 can interact in the plasma membrane of T33.
+T34 studies between T35-T36 and T35-T38 have shown that only 15% of T35 exists as homodimers on the T40 (Shah et al., 2001a).
+T34 studies between T35-T36 and T35-T38 have shown that only 15% of T35 exists as homodimers on the plasma membrane of T41 (Shah et al., 2001a).
+Our results showed that both T42 and T43 heterodimerize with the T44 receptor, suggesting that both coreceptors can have comparable activity in terms of T44 signaling and/or T47.
+Our results showed that both T42 and T43 heterodimerize with the T44 receptor, suggesting that both coreceptors can have comparable activity in terms of T44 signaling and/or T47.
+Another piece of evidence is that a T48 shows less severe phenotypes than T49, indicating that partially redundant activity could be attributed to different T50 members (Li et al., 2002; Nam and Li, 2002).
+Genetic analysis of the T51 suggests that T52 interactions indeed affect T54-mediated signaling T57, but to a lesser extent than SERK3–T54 interactions.
+Genetic analysis of the T51 suggests that T53–T54 interactions indeed affect T54-mediated signaling T57, but to a lesser extent than SERK3–T54 interactions.
+Genetic analysis of the T51 suggests that T52 interactions indeed affect T54-mediated signaling T57, but to a lesser extent than SERK3–T54 interactions.
+Genetic analysis of the T51 suggests that T52 interactions indeed affect T54-mediated signaling T57, but to a lesser extent than T59–T54 interactions.
+Notably, none of the proposed downstream components of T61, such as T62, T63, or T64 (Li and Nam, 2002; Wang et al., 2002b; Yin et al., 2002), was detected in the T65.
+Notably, none of the proposed downstream components of T61, such as T62, T63, or T64 (Li and Nam, 2002; Wang et al., 2002b; Yin et al., 2002), was detected in the T66 complex.
+It is unlikely that all proteins (as identified by MALDI-TOF/MS) listed in Table 1 are present in a complex together with T67 at the same time.
+Especially because proteins such as receptors and T68 (Rancour et al., 2002, 2004) are known to shuttle between monomeric and multimeric forms and can change their interaction properties upon activation and relocalization, multiple forms of the same complex are to be expected.
+An indication of the presence of different complexes is the localization of T69 in the T70 as well as in T71 (Russinova et al., 2004; Kwaaitaal et al., 2005).
+It was proposed that T72 forms heterodimers with T73 to initiate T74 upon BR binding (Li et al., 2002; Nam and Li, 2002).
+This was recently confirmed in an elegant demonstration of the T75 phosphorylation properties of the T76 receptor (Wang et al., 2005a).
+In that work, it was clearly shown that the interaction between the T77 (T78) proteins and T79 is T80-dependent.
+Because we did not apply exogenous ligands before isolation of the T81, it is likely that only a small fraction of the complexes we isolated are actively signaling via the T83 protein.
+Because we did not apply exogenous ligands before isolation of the T82 complex, it is likely that only a small fraction of the complexes we isolated are actively signaling via the T82 protein.
+This notion seems to be supported by the fact that most of the T84 receptors were unassociated with T85 in T86.
+Although our results do not allow us to precisely predict the composition, it is likely that T87, T88, and T89 T90 can form tetrameric complexes analogous to the functional complex of T90 (TGF-ß) T90.
+Although our results do not allow us to precisely predict the composition, it is likely that T87, T88, and T89 receptors can form tetrameric complexes analogous to the functional complex of T90 (T91) receptors.
+Each type of T92 receptor is also present as a ligand-independent dimer on the T93.
+T94 binding to the T95 homodimers promotes the formation of (T99)2/(T95)2 heterodimers, in which T99 is phosphorylated by the constitutively active T95 and becomes activated to propagate the T94 signal.
+T94 binding to the T95 homodimers promotes the formation of (T97)2/(T95)2 heterodimers, in which T97 is phosphorylated by the constitutively active T95 and becomes activated to propagate the T94 signal.
+Combinatorial interactions in the tetrameric receptor complex allow differential ligand binding or differential signaling in response to the same ligand.
+One receptor combination often binds different ligands, and patterns of ligand and receptor expression dictate which receptor–ligand combination is activated (Feng and Derynck, 1997).
+This so-called tetrameric model was also recently proposed for T102 and T103 (T104) (Wang et al., 2005b).
+Other T105 Components The presence of the T107 T108, T109, and T110 in the T111 confirms previously obtained results using T113 screening and T114 interaction studies (Rienties et al., 2005).
+Other T106 Complex Components The presence of the T107 T108, T109, and T110 in the T106 complex confirms previously obtained results using T113 screening and T114 interaction studies (Rienties et al., 2005).
+Other T105 Components The presence of the T107 T108, T109, and T110 in the T112 complex confirms previously obtained results using T113 screening and T114 interaction studies (Rienties et al., 2005).
+Collectively, these proteins appear to be involved in T115, T116 and T117, and T118, respectively.
+It is likely that they represent receptor maintenance or trafficking functions.
+Previously, it was shown that T119 could interact with T120 (Rienties et al., 2005).
+The results presented here suggest that the receptor preferentially interacts with T121 in T122 and perhaps with T123 in T124, given the origin of the T125 cDNA library from T126 tissue that was used for T128 screening.
+The results presented here suggest that the receptor preferentially interacts with T121 in T122 and perhaps with T123 in T124, given the origin of the T125 cDNA library from young T127 tissue that was used for T128 screening.
+The T129 is able to transphosphorylate and bind T131 to T132, T133, and T134 (Rienties et al., 2005).
+The kinase domain of T130 is able to transphosphorylate and bind T131 to T132, T133, and T134 (Rienties et al., 2005).
+T135, the interactions are all phosphorylation-dependent.
+T136, it was shown that T137 interacts with T138 only in T139, and it was proposed to play a role in T140 as well as in T141 (Shah et al., 2002).
+For two other T143-T144, T145 (Williams et al., 1997) and T146 (Gomez-Gomez et al., 2001), it has been shown that T147 functions as a negative regulator, and it may have the same role in T148.
+For two other T142, T145 (Williams et al., 1997) and T146 (Gomez-Gomez et al., 2001), it has been shown that T147 functions as a negative regulator, and it may have the same role in T148.
+For two other T143-T144, T145 (Williams et al., 1997) and T146 (Gomez-Gomez et al., 2001), it has been shown that T147 functions as a negative regulator, and it may have the same role in controlling signaling through the T149 receptor.
+T150 protein assembles mainly in hexameric forms (Rancour et al., 2002).
+In T151 T152, soluble (T153) T154 was found in a high molecular mass protein of 640 kD.
+Recently, it was proposed that T155 interacts with T156 as a monomer and may function in regulating T157 (Rancour et al., 2004) and also in the T159 T161–associated protein degradation system (Muller et al., 2005).
+Recently, it was proposed that T155 interacts with T156 as a monomer and may function in regulating T158 growth (Rancour et al., 2004) and also in the T158 T161–associated protein degradation system (Muller et al., 2005).
+Recently, it was proposed that T155 interacts with T156 as a monomer and may function in regulating T157 (Rancour et al., 2004) and also in the T159 T160 (Muller et al., 2005).
+T162 T163 have also been found associated with T164 (Lu et al., 1992).
+T162 T163 have also been found associated with T165 transcription factors (Lu et al., 1992).
+Five T166 T167, including T168, have been shown to interact with other transcription factors (Pan et al., 1999), and current models propose that the interaction with members of the T169 is client-driven (Paul et al., 2005).
+Two transcription factors were found to be associated with the T170: T172 and a putative T174-like T175.
+Two transcription factors were found to be associated with the T171 complex: T172 and a putative T174-like T175.
+Two transcription factors were found to be associated with the T170: T172 and a putative T173 T175.
+Two transcription factors were found to be associated with the T170: T172 and a putative T174-like T176 zinc finger protein.
+Most likely, these two proteins do not interact directly with the receptor but require T177 as adaptor proteins.
+It has been shown that T178 can also promote the T180 localization or, conversely, the T181, T179 (reviewed in Muslin and Xing, 2000).
+It has been shown that T178 can also promote the T179 or, conversely, the T181, T179 (reviewed in Muslin and Xing, 2000).
+It has been shown that T178 can also promote the T180 localization or, conversely, the T182 localization, T181 (reviewed in Muslin and Xing, 2000).
+One of the other T183, T184, was shown to interact directly with the T185 of the T186 T187 T188 and to be phosphorylated by the T185 of the receptor T190 (Fujita et al., 2003).
+T191 was shown to accumulate in T192 but also to be present in the T193 (Perry et al., 1996).
+T194 and T195 are highly expressed during T196 T197 and during T198.
+As found for T200 (Hecht et al., 2001), T202 promotes somatic T205 production from the T206 T207 whenT199 (Perry et al., 1996; Harding et al., 2003).
+As found for T199 (Hecht et al., 2001), T202 promotes somatic T205 production from the T206 T207 whenT199 (Perry et al., 1996; Harding et al., 2003).
+As found for T200 (Hecht et al., 2001), T203 promotes somatic T205 production from the T206 T207 when T201 (Perry et al., 1996; Harding et al., 2003).
+As found for T200 (Hecht et al., 2001), T201 promotes somatic T205 production from the T206 T207 whenT199 (Perry et al., 1996; Harding et al., 2003).
+As found for T200 (Hecht et al., 2001), T202 promotes T204 from the T206 T207 whenT199 (Perry et al., 1996; Harding et al., 2003).
+Interestingly, T209-overexpressing T210 also had increased expression of T211 (Harding et al., 2003).
+Interestingly, T208 also had increased expression of T211 (Harding et al., 2003).
+It was shown that T212 could bind directly to the promoter regions of different targets (Wang et al., 2002a).
+Those authors described how after chromatin immunoprecipitation, they obtained DNA fragments containing cis-regulatory elements targeted by T213, which may contribute to the regulation of the T215 gene by directly binding to its T214.
+Those authors described how after chromatin immunoprecipitation, they obtained DNA fragments containing cis-regulatory elements targeted by T213, which may contribute to the regulation of the T214 gene by directly binding to its T214.
+These data and our findings suggest that T216 and T217 can be involved in the same signaling pathway.
+The other putative transcription factor found in the T218 belongs to a large family of T220, in which the zinc finger region regulates protein–protein interactions, as found for several T223 transcription factors (reviewed in Griffiths et al., 2003).
+The other putative transcription factor found in the T219 complex belongs to a large family of T220, in which the zinc finger region regulates protein–protein interactions, as found for several T223 transcription factors (reviewed in Griffiths et al., 2003).
+The other putative transcription factor found in the T218 belongs to a large family of T222-like zinc finger transcription factors, in which the zinc finger region regulates protein–protein interactions, as found for several T223 transcription factors (reviewed in Griffiths et al., 2003).
+Recently, it was shown that T224 accumulation is regulated by photoreceptors in photoperiodic T225 (Valverde et al., 2004).
+In conclusion, we propose that in T226 T227, signaling mediated by the T228 receptor combines elements of the T229 with a short signal transduction chain, in which the T230 receptor is in a complex with its cognate transcriptional regulators, such as T231.

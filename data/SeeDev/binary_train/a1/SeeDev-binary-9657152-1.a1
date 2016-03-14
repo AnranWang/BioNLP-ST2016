@@ -30,8 +30,10 @@ T28	Tissue 600 622	embryo-like structures
 T30	Protein 649 653	LEC1
 T31	Development_Phase 683 701	embryo development
 T32	Tissue 683 689	embryo
-T34	Regulatory_Network 738 756;762 782	genes required for embryo morphogenesis
-T33	Regulatory_Network 738 756;787 811	genes required for cellular differentiation
+T34	Regulatory_Network 738 756	genes required for embryo morphogenesis
+T34	Regulatory_Network 762 782	genes required for embryo morphogenesis
+T33	Regulatory_Network 738 756	genes required for cellular differentiation
+T33	Regulatory_Network 787 811	genes required for cellular differentiation
 T35	Development_Phase 762 782	embryo morphogenesis
 T36	Tissue 762 768	embryo
 T37	Development_Phase 787 811	cellular differentiation

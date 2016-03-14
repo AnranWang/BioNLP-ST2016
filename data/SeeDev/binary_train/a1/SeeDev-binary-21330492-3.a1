@@ -16,9 +16,11 @@ T15	Genotype 633 640	dcl1-15
 T16	Tissue 641 648	embryos
 T17	Regulatory_Network 662 690	early chloroplast maturation
 T18	Development_Phase 680 690	maturation
-T21	Regulatory_Network 695 716;750 766	early accumulation of storage proteins
+T21	Regulatory_Network 695 716	early accumulation of storage proteins
+T21	Regulatory_Network 750 766	early accumulation of storage proteins
 T19	Regulatory_Network 695 730	early accumulation of starch grains
-T20	Regulatory_Network 695 716;732 744	early accumulation of lipid bodies
+T20	Regulatory_Network 695 716	early accumulation of lipid bodies
+T20	Regulatory_Network 732 744	early accumulation of lipid bodies
 T22	Pathway 717 730	starch grains
 T23	Pathway 732 744	lipid bodies
 T24	Pathway 750 766	storage proteins
@@ -41,5 +43,7 @@ T40	Gene 1325 1330	At2S3
 T41	Genotype 1338 1347	wild-type
 T42	Tissue 1348 1355	embryos
 T43	RNA 1390 1396	miRNAs
-T44	Development_Phase 1410 1420;1447 1460	initiation of maturation
-T45	Development_Phase 1434 1445;1447 1460	progression of maturation
+T44	Development_Phase 1410 1420	initiation of maturation
+T44	Development_Phase 1447 1460	initiation of maturation
+T45	Development_Phase 1434 1445	progression of maturation
+T45	Development_Phase 1447 1460	progression of maturation

@@ -13,15 +13,18 @@ T12	Gene_Family 370 373	LEC
 T13	Tissue 418 427	seedlings
 T14	Protein_Family 458 478	histone deacetylases
 T15	Gene 500 504	HDA5
-T16	Gene 500 503;511 513	HDA 10
-T17	Gene 500 503;507 508	HDA 9
+T16	Gene 500 503	HDA 10
+T16	Gene 511 513	HDA 10
+T17	Gene 500 503	HDA 9
+T17	Gene 507 508	HDA 9
 T18	Gene 519 523	HDT1
 T19	Gene 559 564	ASIL1
 T20	Gene 566 571	ASIL2
 T21	Protein 605 610	ASIL1
 T22	Box 622 628	GT-box
 T23	Promoter 659 685	promoters of the LEC genes
-T24	Promoter 659 668;690 728	promoters of the genes encoding storage products
+T24	Promoter 659 668	promoters of the genes encoding storage products
+T24	Promoter 690 728	promoters of the genes encoding storage products
 T25	Gene_Family 676 685	LEC genes
 T26	Pathway 712 728	storage products
 T27	Genotype 849 856	asil1-1

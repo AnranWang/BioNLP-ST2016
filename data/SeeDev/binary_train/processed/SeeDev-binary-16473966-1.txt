@@ -1,0 +1,19 @@
+T1 T2 (T3) is a T5 T6 (T8-T9) involved in the T10 and in T11.
+T1 T2 (T3) is a T4 (T8-T9) involved in the T10 and in T11.
+T1 T2 (T3) is a T5 T6 (T7) involved in the T10 and in T11.
+To determine the composition of the T13 signaling complex T14, we generated T15 expressing the T13 protein fused to T17 under T13 promoter control.
+To determine the composition of the T12 T14, we generated T15 expressing the T16 protein fused to T17 under T16 promoter control.
+To determine the composition of the T13 signaling complex T14, we generated T15 expressing the T13 protein fused to T17 under T13 promoter control.
+The membrane receptor complex was immunoprecipitated from T20, and the coimmunoprecipitating proteins were identified using liquid chromatography/matrix-assisted laser desorption ionization–time of flight/mass spectrometry of the trypsin-released peptides.
+This approach identified two other T22-T23, the T24 (T25) receptor and its coreceptor, the T26 or T25-ASSOCIATED KINASE1 protein.
+This approach identified two other T21, the T24 (T25) receptor and its coreceptor, the T26 or T25-ASSOCIATED KINASE1 protein.
+This approach identified two other T22-T23, the T24 (T25) receptor and its coreceptor, the T26 or T25-ASSOCIATED KINASE1 protein.
+In addition, T29, T30, and T31 were found.
+Finally, the T32 T34-LIKE15 and an uncharacterized zinc finger protein, a member of the T35, were identified as part of the T36.
+Finally, the T32 T33 and an uncharacterized zinc finger protein, a member of the T35, were identified as part of the T36.
+Finally, the T32 T34-LIKE15 and an uncharacterized zinc finger protein, a member of the T35, were identified as part of the T37 complex.
+Using blue native gel electrophoresis, we show that T38 and T39 are part of T40 with relative masses between 300 and 500 kD.
+Using blue native gel electrophoresis, we show that T38 and T39 are part of T41-containing multiple protein complexes with relative masses between 300 and 500 kD.
+The T43 mutant allele T44 enhances the phenotype of the weak T45 allele T46.
+The T42 allele T44 enhances the phenotype of the weak T45 allele T46.
+Collectively, these results suggest that apart from T47, T48 is also involved in the T49.

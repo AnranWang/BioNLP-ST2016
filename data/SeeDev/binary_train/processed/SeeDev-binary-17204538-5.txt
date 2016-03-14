@@ -1,0 +1,51 @@
+The translation of T2 mRNA is suppressed by T3 (Chen, 2004) and T2 protein down-regulates T2 and T6 expression (Okamuro et al., 1997; this study), as indicated in grey.
+The translation of T1 is suppressed by T3 (Chen, 2004) and T4 protein down-regulates T4 and T6 expression (Okamuro et al., 1997; this study), as indicated in grey.
+In the current study, it was demonstrated that T7 expression was regulated through T8 and T9, and that T8 may contribute to T11, as indicated by in black.
+The T13 mRNA level did not change in the T14 mutant.
+The T12 level did not change in the T14 mutant.
+The position of T15 is a branch of the T16 under T18.
+The position of T15 is a branch of the T17 signalling pathway under T18.
+It is known that the T19 of ein3 mutants T19 is weaker than T21 mutants (Wang et al., 2002).
+It is known that the T19 of T20 mutants to ethylene is weaker than T21 mutants (Wang et al., 2002).
+Previous studies reported that both T22-dependent and independent pathways exist downstream of T23 (Binder et al., 2004; Seifert et al., 2004).
+Furthermore, T24 expression is independently regulated under T25 in T26 (Ogawa et al., 2005; this study).
+Furthermore, T24 expression is independently regulated under T25 in T27 signalling (Ogawa et al., 2005; this study).
+In this study, T28 was not induced by T29 despite increasing expression of T30.
+We suggest that these signal transductions compete with one another.
+T32 knockout plants exhibited a T33.
+T31 exhibited a T33.
+T32 knockout plants exhibited a weak floral phenotype with a lower number of T34.
+An evaluation was also made of T35 and T36 expression in T38 knockout plants having the same level of T39 (data not shown).
+An evaluation was also made of T35 and T36 expression in T37 having the same level of T39 (data not shown).
+The T40 mutants showed an T41 compared with the T43, and T44 mutants affect the T45 (Kieber et al., 1993).
+The T40 mutants showed an earlier-maturing phenotype in the T42 compared with the T43, and T44 mutants affect the maturation of the T42 (Kieber et al., 1993).
+The T40 mutants showed an T41 compared with the T43, and T44 mutants affect the maturation of the T46 (Kieber et al., 1993).
+Interestingly, the T47 mutT47s show a similar phenotype to the T49 knockout plT47s (Elliott et al., 1996; Klucher et al., 1996).
+Interestingly, the T47 mutT47s show a similar phenotype to the AtEBP knockout plT47s (Elliott et al., 1996; Klucher et al., 1996).
+T50 is a member of the T52/T53 family containing the T52/T56 domains.
+T50 is a member of the T51 containing the T55/T56 domains.
+T50 is a member of the T52/T53 family containing the T52/T56 domains.
+T57 caused up-regulation of T59 in T60.
+Over-expression of T58 caused up-regulation of T59 in T60.
+Despite the accumulation of T62 mRNA in T63, no T65 were observed.
+Despite the accumulation of T61 in T63, no T65 were observed.
+Despite the accumulation of T62 mRNA in transgenic Arabidopsis plants over-expressing T64, no T65 were observed.
+Despite the accumulation of T62 mRNA in T63, no abnormal T66 were observed.
+Chen (2004) reported that T67 control transcriptional regulation of T68 expression.
+That is, most T69 had normal T71 and only a fraction exhibited the T72 phenotype.
+That is, most transgenic Arabidopsis plants over-expressing T70 had normal T71 and only a fraction exhibited the T72 phenotype.
+However, T73 demonstrated a more T76.
+However, over-expression of T74 mutated at the target site of T75 demonstrated a more T76.
+Accumulation of T77 protein was detected only in transgenic plants over-expressing mutated T77, not in normal T77.
+Accumulation of T77 protein was detected only in T79 mutated T77, not in normal T77.
+Accumulation of T77 protein was detected only in transgenic plants over-expressing mutated T77, not in normal T77.
+Thus, we consider that accumulation of T83 mRNA in T84 is not sufficient to change T87 development.
+Thus, we consider that accumulation of T82 in T84 is not sufficient to change T87 development.
+Thus, we consider that accumulation of T83 mRNA in Arabidopsis over-expressing T85 is not sufficient to change T87 development.
+Thus, we consider that accumulation of T83 mRNA in T84 is not sufficient to change T86.
+This study has shown the mutual relationships between T88 and T89.
+T90 and functional T91 affected the transcriptional regulation of T92.
+T93 contributed slightly to T95 development, especially T97 development.
+T93 contributed slightly to T94, especially T97 development.
+T93 contributed slightly to T95 development, especially T96.
+Future reports in this series will focus on the homeotic role of T98.

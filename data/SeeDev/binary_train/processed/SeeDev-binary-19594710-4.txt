@@ -1,0 +1,36 @@
+T1 binds to the T2 with two core motifs The T1 binding sites in the T5, T6, T7, and T8 contained the conserved T2 sequence T14 (Figure 4f), and mutational analysis of the site 1 T2 of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for T1 binding (Figure 5c).
+T1 binds to the T2 with two core motifs The T1 binding sites in the T5, T6, T7, and T8 contained the conserved T2 sequence T14 (Figure 4f), and mutational analysis of the site 1 T2 of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for T1 binding (Figure 5c).
+T1 binds to the T2 with two core motifs The T1 binding sites in the T6Pl-PKβ1, T6, T7, and T8 contained the conserved T2 sequence T14 (Figure 4f), and mutational analysis of the site 1 T2 of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for T1 binding (Figure 5c).
+T1 binds to the T2 with two core motifs The T1 binding sites in the T5, T10, T7, and T8 contained the conserved T2 sequence T14 (Figure 4f), and mutational analysis of the site 1 T2 of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for T1 binding (Figure 5c).
+T1 binds to the T2 with two core motifs The T1 binding sites in the T5, T6, T7, and T12 contained the conserved T2 sequence T14 (Figure 4f), and mutational analysis of the site 1 T2 of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for T1 binding (Figure 5c).
+T1 binds to the T2 with two core motifs The T1 binding sites in the T5, T6, T11, and T8 contained the conserved T2 sequence T14 (Figure 4f), and mutational analysis of the site 1 T2 of T9 indicated that each of the five conserved nucleotides is critical for T1 binding (Figure 5c).
+T1 binds to the T2 with two core motifs The T1 binding sites in the T5, T6, T7, and T8 contained the conserved T2 sequence T14 (Figure 4f), and mutational analysis of the site 1 T2 of T16 indicated that each of the five conserved nucleotides is critical for T1 binding (Figure 5c).
+The DNA-binding activity of T18 T19 has been characterized previously.
+Repeated selection of random oligonucleotides that bind with a recombinant T20 fragment corresponding to two T22 domains results in enrichment of oligonucleotides with a consensus sequence of T23 (Nole-Wilson and Krizek, 2000).
+Repeated selection of random oligonucleotides that bind with a recombinant T20 fragment corresponding to two T21 results in enrichment of oligonucleotides with a consensus sequence of T23 (Nole-Wilson and Krizek, 2000).
+Although the T24 sequences do not match to this sequence, there are some similarities between them.
+The T26- and WRI1-T25 sequences are both longer than those for transcription factors with single T30 domain.
+The T25 and WRI1-T25 sequences are both longer than those for transcription factors with single T30 domain.
+The T26- and T28-binding site sequences are both longer than those for transcription factors with single T30 domain.
+The T26- and WRI1-T25 sequences are both longer than those for transcription factors with single T29.
+The T31 is similar to the T33 (T34), to which T36-like single T38 domain factors binds, suggesting that two T38 domains of T41 uniquely participate in DNA binding (Nole-Wilson and Krizek, 2000; Krizek, 2003).
+The 3′-half of the 16-bp T32-binding sequence is similar to the T33 (T34), to which T36-like single T38 domain factors binds, suggesting that two T38 domains of T32 uniquely participate in DNA binding (Nole-Wilson and Krizek, 2000; Krizek, 2003).
+The T31 is similar to the T33 (T34), to which T35 single T38 domain factors binds, suggesting that two T38 domains of T41 uniquely participate in DNA binding (Nole-Wilson and Krizek, 2000; Krizek, 2003).
+The T31 is similar to the T33 (T34), to which T36-like single T37 factors binds, suggesting that two T37s of T41 uniquely participate in DNA binding (Nole-Wilson and Krizek, 2000; Krizek, 2003).
+The T31 is similar to the T33 (T34), to which T36-like single T38 domain factors binds, suggesting that two T38 domains of T41 uniquely participate in DNA binding (Nole-Wilson and Krizek, 2000; Krizek, 2003).
+The T42, T45, shows the T46 core of the T47 in the 5′-half, while the sequence of the 3′-half is T48 rather than T49 in the T47.
+The opposite strand sequence of the T44-binding consensus sequence, T45, shows the T46 core of the T47 in the 5′-half, while the sequence of the 3′-half is T48 rather than T49 in the T47.
+The T52-type transcription factors characterized previously act as important key regulators in T54 function and T55.
+The T51 characterized previously act as important key regulators in T54 function and T55.
+The T52-type transcription factors characterized previously act as important key regulators in T53 and T55.
+The T52-type transcription factors characterized previously act as important key regulators in T54 function and T56 development.
+For example, T57 is a class A floral homeotic gene (Bowman et al., 1989; Jofuku et al., 1994; Okamuro et al., 1997) and it is also involved in control of T59 size (Ohto et al., 2005).
+For example, T57 is a class A floral homeotic gene (Bowman et al., 1989; Jofuku et al., 1994; Okamuro et al., 1997) and it is also involved in control of T58 (Ohto et al., 2005).
+T60 regulates T61 and T63 (Elliott et al., 1996; Mizukami and Fischer, 2000), and T65 (T66) and T67 are required for T69 specification and T70 in the T71 (Aida et al., 2004).
+T60 regulates T62 development and T63 (Elliott et al., 1996; Mizukami and Fischer, 2000), and T65 (T66) and T67 are required for T69 specification and T70 in the T71 (Aida et al., 2004).
+T60 regulates T61 and T64 growth (Elliott et al., 1996; Mizukami and Fischer, 2000), and T65 (T66) and T67 are required for T69 specification and T70 in the T71 (Aida et al., 2004).
+T60 regulates T61 and T63 (Elliott et al., 1996; Mizukami and Fischer, 2000), and T65 (T66) and T67 are required for T68 and T70 in the T71 (Aida et al., 2004).
+The T72 from various T73 species have been classified into three major lineages (Kim et al., 2006), and T74 and two other related factors [T74/T76-related Two-1 (T77; T78) and -2 (T79; T80)] of T81 are in the lineage different from the T82 lineage.
+Comparison of the consensus binding site sequences among T84-type factors in different lineages is expected to elucidate the structure–function relationship of the double T84 domain transcription factors and also to help identify their direct target genes.
+Comparison of the consensus binding site sequences among T83 factors in different lineages is expected to elucidate the structure–function relationship of the T85 and also to help identify their direct target genes.
+Comparison of the consensus binding site sequences among T84-type factors in different lineages is expected to elucidate the structure–function relationship of the double T84 domain transcription factors and also to help identify their direct target genes.

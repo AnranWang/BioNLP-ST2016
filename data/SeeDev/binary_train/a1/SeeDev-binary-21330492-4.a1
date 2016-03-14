@@ -2,9 +2,11 @@ T1	Regulatory_Network 35 53	maturation program
 T2	Development_Phase 35 45	maturation
 T3	Gene_Family 62 71	LEC genes
 T4	Protein_Family 62 65	LEC
-T5	Protein_Family 102 106;115 136	bZIP transcription factors
+T5	Protein_Family 102 106	bZIP transcription factors
+T5	Protein_Family 115 136	bZIP transcription factors
 T6	Protein_Family 111 136	MYB transcription factors
-T8	Promoter 183 195;227 276	promoters of genes involved in the synthesis of storage lipids
+T8	Promoter 183 195	promoters of genes involved in the synthesis of storage lipids
+T8	Promoter 227 276	promoters of genes involved in the synthesis of storage lipids
 T7	Promoter 183 222	promoters of seed storage protein genes
 T10	Tissue 196 200	seed
 T9	Pathway 196 216	seed storage protein

@@ -3,10 +3,13 @@ T2	Development_Phase 45 75	embryonic cell differentiation
 T3	Genotype 132 138	dcl1-5
 T4	Tissue 139 146	embryos
 T6	Gene 148 173	WUSCHEL-related HOMEOBOX2
-T5	RNA 148 174;180 192	WUSCHEL-related HOMEOBOX2 transcripts
+T5	RNA 148 174	WUSCHEL-related HOMEOBOX2 transcripts
+T5	RNA 180 192	WUSCHEL-related HOMEOBOX2 transcripts
 T7	Gene 175 179	WOX2
-T8	RNA 175 179;181 192	WOX2 transcripts
-T9	Tissue 214 236;259 266	apical cell lineage of embryos
+T8	RNA 175 179	WOX2 transcripts
+T8	RNA 181 192	WOX2 transcripts
+T9	Tissue 214 236	apical cell lineage of embryos
+T9	Tissue 259 266	apical cell lineage of embryos
 T10	Genotype 237 266	wild-type preglobular embryos
 T11	Development_Phase 247 258	preglobular
 T12	Tissue 259 266	embryos
@@ -22,9 +25,11 @@ T21	Tissue 533 540	embryos
 T22	Gene 558 562	WOX2
 T23	Gene 586 590	WOX2
 T24	Gene 592 599	PINHEAD
-T25	RNA 592 599;619 630	PINHEAD transcripts
+T25	RNA 592 599	PINHEAD transcripts
+T25	RNA 619 630	PINHEAD transcripts
 T26	Gene 600 606	ZWILLE
-T27	RNA 600 606;619 630	ZWILLE transcripts
+T27	RNA 600 606	ZWILLE transcripts
+T27	RNA 619 630	ZWILLE transcripts
 T29	Gene 607 618	ARGONAUTE10
 T28	RNA 607 630	ARGONAUTE10 transcripts
 T30	Gene_Family 657 660	PNH
@@ -43,9 +48,11 @@ T42	Development_Phase 956 967	preglobular
 T43	Genotype 968 972	dcl1
 T44	Tissue 973 980	embryos
 T45	Gene 1019 1023	WOX2
-T46	RNA 1019 1023;1038 1049	WOX2 transcripts
+T46	RNA 1019 1023	WOX2 transcripts
+T46	RNA 1038 1049	WOX2 transcripts
 T47	Gene 1028 1031	PNH
-T48	RNA 1028 1031;1038 1049	PNH transcripts
+T48	RNA 1028 1031	PNH transcripts
+T48	RNA 1038 1049	PNH transcripts
 T50	Gene 1033 1037	WOX8
 T49	RNA 1033 1049	WOX8 transcripts
 T51	Tissue 1071 1089	basal cell lineage
@@ -66,27 +73,33 @@ T65	Tissue 1359 1366	embryos
 T66	Genotype 1384 1388	dcl1
 T67	Tissue 1389 1396	embryos
 T68	Regulatory_Network 1412 1457	defects in the differentiation of apical cell
-T69	Regulatory_Network 1412 1446;1466 1476	defects in the differentiation of basal cell
+T69	Regulatory_Network 1412 1446	defects in the differentiation of basal cell
+T69	Regulatory_Network 1466 1476	defects in the differentiation of basal cell
 T70	Tissue 1446 1457	apical cell
 T71	Tissue 1466 1476	basal cell
 T72	Development_Phase 1505 1521	eight-cell stage
 T73	Gene 1539 1543	DCL1
 T74	Development_Phase 1560 1577	radial patterning
 T75	Gene 1668 1695	A. thaliana MERISTEM LAYER1
-T76	RNA 1668 1695;1735 1746	A. thaliana MERISTEM LAYER1 transcripts
+T76	RNA 1668 1695	A. thaliana MERISTEM LAYER1 transcripts
+T76	RNA 1735 1746	A. thaliana MERISTEM LAYER1 transcripts
 T77	Genotype 1668 1679	A. thaliana
 T78	Gene 1697 1702	ATML1
-T79	RNA 1697 1702;1735 1746	ATML1 transcripts
+T79	RNA 1697 1702	ATML1 transcripts
+T79	RNA 1735 1746	ATML1 transcripts
 T80	Gene 1708 1727	PROTODERMAL FACTOR1
-T81	RNA 1708 1727;1735 1746	PROTODERMAL FACTOR1 transcripts
+T81	RNA 1708 1727	PROTODERMAL FACTOR1 transcripts
+T81	RNA 1735 1746	PROTODERMAL FACTOR1 transcripts
 T82	Gene 1729 1733	PDF1
-T83	RNA 1729 1733;1735 1746	PDF1 transcripts
+T83	RNA 1729 1733	PDF1 transcripts
+T83	RNA 1735 1746	PDF1 transcripts
 T84	Tissue 1769 1778	protoderm
 T85	Tissue 1792 1804	subprotoderm
 T86	Development_Phase 1809 1823	globular stage
 T87	Tissue 1824 1831	embryos
 T88	Gene 1867 1872	ATML1
-T89	RNA 1867 1872;1882 1893	ATML1 transcripts
+T89	RNA 1867 1872	ATML1 transcripts
+T89	RNA 1882 1893	ATML1 transcripts
 T91	Gene 1877 1881	PDF1
 T90	RNA 1877 1893	PDF1 transcripts
 T92	Tissue 1930 1939	protoderm
@@ -102,7 +115,8 @@ T101	Tissue 2213 2219	embryo
 T102	Pathway 2236 2249	starch grains
 T103	Pathway 2254 2268	protein bodies
 T104	Tissue 2276 2286	suspensors
-T105	Development_Phase 2290 2300;2311 2318	late stage embryos
+T105	Development_Phase 2290 2300	late stage embryos
+T105	Development_Phase 2311 2318	late stage embryos
 T106	Genotype 2301 2305	sus1
 T107	Genotype 2306 2310	dcl1
 T108	Tissue 2311 2318	embryos
@@ -161,7 +175,8 @@ T160	Tissue 3605 3612	embryos
 T161	Gene 3629 3633	DCL1
 T162	Regulatory_Network 3663 3678	auxin signaling
 T163	Hormone 3663 3668	auxin
-T164	Tissue 3689 3700;3707 3724	presumptive hypophysis cells
+T164	Tissue 3689 3700	presumptive hypophysis cells
+T164	Tissue 3707 3724	presumptive hypophysis cells
 T165	Genotype 3701 3707	dcl1-5
 T166	Gene 3741 3751	DR5rev∷GFP
 T167	Promoter 3741 3747	DR5rev
@@ -183,7 +198,8 @@ T182	Regulatory_Network 3999 4028	inappropriate auxin signaling
 T183	Hormone 4013 4018	auxin
 T184	Genotype 4041 4045	dcl1
 T185	Tissue 4046 4053	embryos
-T186	Regulatory_Network 4076 4099;4123 4146	incorrect expression of auxin signaling factors
+T186	Regulatory_Network 4076 4099	incorrect expression of auxin signaling factors
+T186	Regulatory_Network 4123 4146	incorrect expression of auxin signaling factors
 T188	Hormone 4100 4105	auxin
 T187	Pathway 4100 4115	auxin transport
 T189	Hormone 4123 4128	auxin

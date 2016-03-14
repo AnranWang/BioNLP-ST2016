@@ -1,0 +1,19 @@
+Our data support the hypothesis that T1 encodes an enzyme involved in T2.
+First, analysis of T3 T4 using antibodies and gas chromatography have demonstrated a significant reduction in RGI and its composite backbone monosaccharides Rha and GalUA in comparison with T6 seeds.
+First, analysis of T3 T4 using antibodies and gas chromatography have demonstrated a significant reduction in RGI and its composite backbone monosaccharides Rha and GalUA in comparison with T5.
+Second, cloning of T7 revealed a putative protein containing similarity to bacterial nucleotide sugar interconversion enzymes, suggesting that it, too, is required for the T8.
+The T9 is most similar to T11 T12, the first of three enzymes required for the T13 (Tonetti et al., 1998).
+The N-terminal portion of T10 is most similar to T11 T12, the first of three enzymes required for the T13 (Tonetti et al., 1998).
+These data favor a role for T14 in the T15, a key step in the T16.
+A reverse genetics approach taken by another group has come to a similar conclusion regarding the putative enzymatic function of T17 (also designated T18 [T19]; B. Usadel et al., 2004).
+However, another role in T20 cannot be ruled out without evidence of enzymatic activity in the T21.
+T22 such as T23 encode three separate enzymes (T24, T25, and T26) to T27 (Tonetti et al., 1998).
+The putative T28 protein not only contains an T29 with similarity to the bacterial T30 but also a T31 with some similarity to T32 (this study; Reiter and Vanzin, 2001).
+There is a precedent in T33 for a bifunctional T34 in the T37 (T38, T39) (Bonin and Reiter, 2000).
+There is a precedent in T33 for a bifunctional T35, T36 in the T37 (T38, T39) (Bonin and Reiter, 2000).
+Therefore, based on sequence analysis, it is attractive to postulate a single, multifunctional protein acting in the T40 in T41 (Reiter and Vanzin, 2001).
+T42 is a member of a small gene family consisting of three genes (T43, T42/T45, and T46; Reiter and Vanzin, 2001) that exhibit high identity at both nucleotide and amino acid levels.
+The ubiquitous expression of T47 and T48 can be postulated to provide a mechanism for the formation of the T49 in T51 mutants and the T52 present in T51 T54.
+The ubiquitous expression of T47 and T48 can be postulated to provide a mechanism for the formation of the normal T50 in T51 mutants and the T52 present in T51 T54.
+Redundancy in genes coding for putative T55 is unsurprising because of the importance of the Rha-containing pectins RGI and RGII in T56.
+In fact, the presence of multiple genes coding enzymes involved in T57 is common in T58 (Reiter and Vanzin, 2001).

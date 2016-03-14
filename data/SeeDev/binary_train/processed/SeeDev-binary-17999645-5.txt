@@ -1,0 +1,15 @@
+T1 induces expression of some direct downstream target genes, and represses the expression others Downstream target genes of T1 have previously been identified of which expression is induced in response to T1 binding a T4 within the promoter region (Wang et al., 2002, 2004).
+In the transient expression assay, when the effector lacked any portion of the T5, the T6/T7 reporter ratio was no different than the no-effector control, but forms of T8 that included part of the T5 often, but not always, showed activation of the T6 reporter gene.
+These effectors (deletions A and B) included a conserved region (T11). but not the T12.
+The T13 motif (Figure 2) contains a number of glutamine, asparagine and acidic residues, and may under certain configurations function as an activation domain (Titz et al., 2006).
+Alternately, activation of direct T14 downstream targets (Wang et al., 2002, 2004; S. Perry, unpublished data) may be mediated via its association with transcriptional activators.
+T15 studies have demonstrated that T16 can interact with T17 (de Folter et al., 2005) and T18 (Figure 4), both of which have reported transactivation functions (Cho et al., 1999; Honma and Goto, 2001; Ng and Yanofsky, 2001; Pelaz et al., 2001).
+It is interesting to note that the conserved T19 motif resides within a region of T20 that is necessary and sufficient to allow interaction with T21 in T22 (data not shown).
+There are numerous examples in the literature of protein interactions determining whether a protein acts as a transcriptional activator or repressor.
+Known transcriptional activators have been shown to exert a repressive function through recruitment of T24/T25 (Cheng and Bishop, 2002; Yang et al., 1996; Zhu et al., 2001).
+Known transcriptional activators have been shown to exert a repressive function through recruitment of T23 (Cheng and Bishop, 2002; Yang et al., 1996; Zhu et al., 2001).
+Co-activators that interact with T27/T28 members, giving the complex an activator function, have also been reported.
+Co-activators that interact with T26 members, giving the complex an activator function, have also been reported.
+In the literature T29 are generally associated with the repression of gene expression; however, in T30 T31 has been shown to interact with T32, and exerts a modest transactivation of reporter genes (Gao et al., 2003).
+T33 has also been shown to interact with T34, an ortholog of the T35 T36 (T38), and likewise exerts transcriptional activation of reporter genes (Gao et al., 2004).
+T33 has also been shown to interact with T34, an ortholog of the T35 T37-like protein 15 (T38), and likewise exerts transcriptional activation of reporter genes (Gao et al., 2004).

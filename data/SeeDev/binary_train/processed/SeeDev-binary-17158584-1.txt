@@ -1,0 +1,72 @@
+Plant T2 development is regulated by a network of transcription factors that include T3 (T4), T4-LIKE (T7), and T8, T9 (T10), T11 (T12), and T13 (T14) of T15 (T15 thaliana).
+Plant T1 is regulated by a network of transcription factors that include T3 (T4), T4-LIKE (T7), and T8, T9 (T10), T11 (T12), and T13 (T14) of T15 (T15 thaliana).
+Plant T2 development is regulated by a network of transcription factors that include T3 (T4), T4-LIKE (T7), and T8, T9 (T10), T11 (T12), and T13 (T14) of T15 (T15 thaliana).
+Interactions of these genes result in temporal progression of overlapping B3 gene expression culminating in T17 and desiccation T17.
+Interactions of these genes result in temporal progression of overlapping B3 gene expression culminating in T17 and T18.
+Three T20 (T21) genes encode T22 that include T23 and T24 associated with chromatin factors.
+Whereas T25 have phenotypes similar to T26, T27 T28 form no T29 and develop T32 in T33 and T31 regions.
+Whereas T25 have phenotypes similar to T26, T27 T28 form no T29 and develop T31 T33 and T31 regions.
+Whereas T25 have phenotypes similar to T26, T27 T28 form no T29 and develop T32 in T33 and T34 regions.
+In a T35 background, T36 and T37 condition a dominant variegated T38 phenotype revealing a T39 function in T40.
+Reminiscent of the T42 (pkl) T41, T44 during T46 induces embryonic phenotypes in T47 T48.
+Reminiscent of the T41 (pkl) T41, T44 during T46 induces embryonic phenotypes in T47 T48.
+Reminiscent of the T42 (T43) mutant, T44 during T46 induces embryonic phenotypes in T47 T48.
+Reminiscent of the T42 (pkl) T41, inhibition of T45 during T46 induces embryonic phenotypes in T47 T48.
+Consistent with the embryonic seedling phenotype, T49, T50, T51, and T52 are up-regulated in T53 T54 in association with a global shift in gene expression to a profile resembling T55.
+Consistent with the embryonic seedling phenotype, T49, T50, T51, and T52 are up-regulated in T53 T54 in association with a global shift in gene expression to a profile resembling late-torpedo-stage T56.
+Hence, T57 factors function as global repressors of the T59/B3 gene system.
+Hence, T57 factors function as global repressors of the T58.
+The consensus binding site of the T60/T61/T62 T63 (T64) is strongly enriched in the T65 and first introns T65, including the early acting T68 and T69 genes.
+The consensus binding site of the T60/T61/T62 T63 (T64) is strongly enriched in the T65 and T66, including the early acting T68 and T69 genes.
+We suggest that T70 targets T71-containing genes in the network for T72 in conjunction with the T73.
+T75 development in T76 is regulated by a network of transcription factors that include the T77 (T78) and T78-LIKE (T81) genes belonging to the T82 T84-binding factors and a subgroup of the plant-specific T86 protein family composed of the T87, T88 (T89), and T90 (ABA)-T91 (T93) genes (Giraudat et al., 1992; Lotan et al., 1998; Luerssen et al., 1998; Stone et al., 2001; Kwong et al., 2003).
+T74 in T76 is regulated by a network of transcription factors that include the T77 (T78) and T78-LIKE (T81) genes belonging to the T82 T84-binding factors and a subgroup of the plant-specific T86 protein family composed of the T87, T88 (T89), and T90 (ABA)-T91 (T93) genes (Giraudat et al., 1992; Lotan et al., 1998; Luerssen et al., 1998; Stone et al., 2001; Kwong et al., 2003).
+T75 development in T76 is regulated by a network of transcription factors that include the T77 (T78) and T78-LIKE (T81) genes belonging to the T82 T84-binding factors and a subgroup of the plant-specific T86 protein family composed of the T87, T88 (T89), and T90 (ABA)-T91 (T93) genes (Giraudat et al., 1992; Lotan et al., 1998; Luerssen et al., 1998; Stone et al., 2001; Kwong et al., 2003).
+T75 development in T76 is regulated by a network of transcription factors that include the T77 (T78) and T78-LIKE (T81) genes belonging to the T82 T83 and a subgroup of the plant-specific T86 protein family composed of the T87, T88 (T89), and T90 (ABA)-T91 (T93) genes (Giraudat et al., 1992; Lotan et al., 1998; Luerssen et al., 1998; Stone et al., 2001; Kwong et al., 2003).
+T75 development in T76 is regulated by a network of transcription factors that include the T77 (T78) and T78-LIKE (T81) genes belonging to the T82 T84-binding factors and a subgroup of the plant-specific T85 composed of the T87, T88 (T89), and T90 (ABA)-T91 (T93) genes (Giraudat et al., 1992; Lotan et al., 1998; Luerssen et al., 1998; Stone et al., 2001; Kwong et al., 2003).
+T75 development in T76 is regulated by a network of transcription factors that include the T77 (T78) and T78-LIKE (T81) genes belonging to the T82 T84-binding factors and a subgroup of the plant-specific T86 protein family composed of the T87, T88 (T89), and T91 (ABA)-T91 (T93) genes (Giraudat et al., 1992; Lotan et al., 1998; Luerssen et al., 1998; Stone et al., 2001; Kwong et al., 2003).
+T75 development in T76 is regulated by a network of transcription factors that include the T77 (T78) and T78-LIKE (T81) genes belonging to the T82 T84-binding factors and a subgroup of the plant-specific T86 protein family composed of the T87, T88 (T89), and T90 (T92)-INSENSITIVE 3 (T93) genes (Giraudat et al., 1992; Lotan et al., 1998; Luerssen et al., 1998; Stone et al., 2001; Kwong et al., 2003).
+A series of studies have detailed the complex sequential and regional expression patterns and mutual interactions among these regulators, which underlie the process of T95 formation (Parcy et al., 1997; Nambara et al., 2000; Raz et al., 2001; Brocard-Gifford et al., 2003; Baumbusch et al., 2004; Kagaya et al., 2005; Santos Mendoza et al., 2005; To et al., 2006).
+A series of studies have detailed the complex sequential and regional expression patterns and mutual interactions among these regulators, which underlie the process of T94 (Parcy et al., 1997; Nambara et al., 2000; Raz et al., 2001; Brocard-Gifford et al., 2003; Baumbusch et al., 2004; Kagaya et al., 2005; Santos Mendoza et al., 2005; To et al., 2006).
+T96 and T97 act T98 and initiate a complex progression of T99 expression associated with the T100 and T105.
+T96 and T97 act T98 and initiate a complex progression of T99 expression associated with the transition from T102 morphogenesis to T102 maturation and T105.
+T96 and T97 act T98 and initiate a complex progression of T99 expression associated with the T100 and T105.
+T96 and T97 act T98 and initiate a complex progression of T99 expression associated with the T100 and acquisition of T106.
+T107 function has been shown to cause T110 arrest during T111 (Kwong et al., 2003), whereas T112 T110s complete T111 and are capable of further development into plants if rescued prior to T115 (Meinke, 1992, 1994; West et al., 1994).
+RNA interference of T108 function has been shown to cause T110 arrest during T111 (Kwong et al., 2003), whereas T112 T110s complete T111 and are capable of further development into plants if rescued prior to T115 (Meinke, 1992, 1994; West et al., 1994).
+T107 function has been shown to cause T109 during T111 (Kwong et al., 2003), whereas T112 T113 complete T111 and are capable of further development into plants if rescued prior to T115 (Meinke, 1992, 1994; West et al., 1994).
+T107 function has been shown to cause T110 arrest during T111 (Kwong et al., 2003), whereas T112 T110s complete T111 and are capable of further development into plants if rescued prior to desiccation of the T116 (Meinke, 1992, 1994; West et al., 1994).
+T118 T119 or T118 is sufficient to induce T122 formation in T123 (Lotan et al., 1998; Kwong et al., 2003).
+T118 T119 or T120 is sufficient to induce T122 formation in T123 (Lotan et al., 1998; Kwong et al., 2003).
+T118 T119 or T118 is sufficient to induce T121 (Lotan et al., 1998; Kwong et al., 2003).
+The T124, T125, and T126 mutations cause partial T127 (Meinke, 1992, 1994; Keith et al., 1994; West et al., 1994).
+The T124, T125, and T126 mutations cause partial transformation of T128 to T129-like organs (Meinke, 1992, 1994; Keith et al., 1994; West et al., 1994).
+The T130 mutant T131, if rescued, are also viable (Keith et al., 1994; Meinke et al., 1994).
+T133 T134 or T133 causes T136, albeit not as strongly as induced by T139 or L1L T138 (Stone et al., 2001; Tsuchiya et al., 2004).
+T133 T134 or T135 causes T136, albeit not as strongly as induced by T139 or L1L T138 (Stone et al., 2001; Tsuchiya et al., 2004).
+T133 T134 or T133 causes ectopic expression of embryonic traits in T137, albeit not as strongly as induced by T139 or L1L T138 (Stone et al., 2001; Tsuchiya et al., 2004).
+T133 T134 or T133 causes T136, albeit not as strongly as induced by T138 or L1L T138 (Stone et al., 2001; Tsuchiya et al., 2004).
+T133 T134 or T133 causes T136, albeit not as strongly as induced by T139 or T141 misexpression (Stone et al., 2001; Tsuchiya et al., 2004).
+Finally, T143 is required for maturation-related and ABA-regulated gene expression and T144 during T147 (Koornneef et al., 1984).
+Finally, T142 is required for maturation-related and ABA-regulated gene expression and T144 during T147 (Koornneef et al., 1984).
+Finally, T143 is required for maturation-related and ABA-regulated gene expression and establishment of T145 T146 during mid-to-late T145 development (Koornneef et al., 1984).
+Finally, T143 is required for maturation-related and ABA-regulated gene expression and T144 during mid-to-late T148 development (Koornneef et al., 1984).
+T149 T150 are morphologically almost normal and viable if rescued prior to T151 (Giraudat et al., 1992; Nambara et al., 1992, 1994).
+T152 or the T155 (T156) ortholog T153 develop normally, but have dramatically T158 in T160 (Parcy et al., 1994; Suzuki et al., 2001).
+T153 ABI3 or the T155 (T156) ortholog T153 develop normally, but have dramatically T158 in T160 (Parcy et al., 1994; Suzuki et al., 2001).
+T152 or the T155 (T156) ortholog T157 develop normally, but have dramatically T158 in T160 (Parcy et al., 1994; Suzuki et al., 2001).
+T152 or the T155 (T156) ortholog T153 develop normally, but have dramatically altered T159-dependent gene expression in T160 (Parcy et al., 1994; Suzuki et al., 2001).
+A major function of the T161, T162, and T164 T165 is activation of genes involved in T167 storage protein and T167 in the T168 during T170 maturation.
+A major function of the T161, T162, and T163 T165 is activation of genes involved in T167 storage protein and T167 in the T168 during T170 maturation.
+A major function of the T161, T162, and T164 T165 is activation of genes involved in T167 storage protein and lipid reserves in the T168 during T170 maturation.
+A major function of the T161, T162, and T164 T165 is activation of genes involved in T167 storage protein and T167 in the T168 during T169.
+Activation of downstream genes is mediated by specific binding of the T171 (Suzuki et al., 1997; Kroj et al., 2003; Carranco et al., 2004; Monke et al., 2004; Braybrook et al., 2006) to the T172 cis-element (Hattori et al., 1992; Kao et al., 1996; Ezcurra et al., 1999; Reidt et al., 2000; Chandrasekharan et al., 2003; Nag et al., 2005).
+In addition, T173 mediates T175-regulated gene expression in the T176 through interaction with specific T177 that bind T175 response elements (Finkelstein et al., 2002).
+In addition, T173 mediates T174 in the T176 through interaction with specific T177 that bind T179 response elements (Finkelstein et al., 2002).
+In addition, T173 mediates T175-regulated gene expression in the T176 through interaction with specific T177 that bind T175 response elements (Finkelstein et al., 2002).
+T180 and T181 are implicated in repression of T183 biosynthesis during T185 development (Curaba et al., 2004; Gazzarrini et al., 2004).
+T180 and T181 are implicated in repression of T182 during T185 development (Curaba et al., 2004; Gazzarrini et al., 2004).
+T180 and T181 are implicated in repression of T183 biosynthesis during T184 (Curaba et al., 2004; Gazzarrini et al., 2004).
+The T186 themselves are regulated in part through mutual interactions, as well as unidentified region-specific signals within the T187 (Kagaya et al., 2005; Santos Mendoza et al., 2005; To et al., 2006).
+The T189/B3 network is repressed prior to T190 and T191.
+The T188 is repressed prior to T190 and T191.

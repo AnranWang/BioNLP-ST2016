@@ -1,0 +1,30 @@
+The T1 (T3) loci of T4 have been shown to interact genetically in regulating processes such as T5 and T7-inducible gene expression.
+The T2 insensitive (T3) loci of T4 have been shown to interact genetically in regulating processes such as T5 and T2-inducible gene expression.
+The T1 (T3) loci of T4 have been shown to interact genetically in regulating processes such as T5 and T6.
+To determine whether T8 or T9 can physically interact with themselves or any of the other T10, we tested pairwise combinations in T11 interaction assays.
+The assay system was comprised of fusions between the T12 proteins and either the T13 or the transcription-activation domain T13.
+The assay system was comprised of fusions between the T12 proteins and either the T13 or the T14.
+Direct interaction of the T16 protein fusions would bring the T18 domains of the fusions into close enough proximity to transactivate a T19 controlled by a T18-responsive promoter (James et al., 1996).
+Direct interaction of the T16 protein fusions would bring the T17 of the fusions into close enough proximity to transactivate a T19 controlled by a T21-responsive promoter (James et al., 1996).
+Direct interaction of the T16 protein fusions would bring the T18 domains of the fusions into close enough proximity to transactivate a T19 controlled by a T18-responsive promoter (James et al., 1996).
+The T22 (BD)-T22 construct encoded a slightly truncated form of T22 (amino acids 3–287) because a full-length T22 fusion provides very strong transcription-activation function in the absence of any T29 (AD) fusion (Söderman et al., 2000).
+The T22 (BD)-T25 construct encoded a slightly truncated form of T25 (amino acids 3–287) because a full-length T25 fusion provides very strong transcription-activation function in the absence of any T29 (AD) fusion (Söderman et al., 2000).
+The T22 (BD)-T22 construct encoded a slightly truncated form of T22 (amino acids 3–287) because a full-length T22 fusion provides very strong transcription-activation function in the absence of any T29 (AD) fusion (Söderman et al., 2000).
+Although the truncation reduces target gene expression roughly threefold, the remaining basal level of expression is still approximately tenfold higher than that produced by the T31-BD alone (Figure 1a).
+Although the truncation reduces target gene expression roughly threefold, the remaining basal level of expression is still approximately tenfold higher than that produced by the T30 alone (Figure 1a).
+The T32 construct encoded all but the first eight amino acids of T34, thus including all conserved domains, but produced a much lower basal expression of the reporter genes (only fourfold that produced by the vector control) (Figure 1b).
+The BD-T33 construct encoded all but the first eight amino acids of T33, thus including all conserved domains, but produced a much lower basal expression of the reporter genes (only fourfold that produced by the vector control) (Figure 1b).
+Combination of these T36-BD fusions with T36-AD fusions to full-length T39 produced a broad range of results (Figure 1).
+Combination of these T35 fusions with T38-AD fusions to full-length T39 produced a broad range of results (Figure 1).
+Combination of these T36-BD fusions with T36-AD fusions to full-length T39 produced a broad range of results (Figure 1).
+T40 and T41 did not interact with either T41 or T43, but both T45 and T43 strongly interacted with T43.
+T40 and T41 did not interact with either T41 or T43, but both T44 and T43 strongly interacted with T43.
+Figure 1.
+Tests for pairwise interactions among T48. T49 activity of T50 carrying plasmids encoding the T52-AD (T53) or T52-AD fusions to the T56 indicated and T52-BD (T59); or (a) a T52-BD-T63 fusion (BD-T63); or (b) a T52-BD-T69 (BD-T69) fusion.
+Tests for pairwise interactions among T48. T49 activity of T50 carrying plasmids encoding the T51 (T53) or T51 fusions to the T56 indicated and T55-BD (T59); or (a) a T55-BD-T63 fusion (BD-T63); or (b) a T55-BD-T69 (BD-T69) fusion.
+Tests for pairwise interactions among T48. T49 activity of T50 carrying plasmids encoding the T52-AD (T53) or T52-AD fusions to the T56 indicated and T52-BD (T59); or (a) a T52-BD-T63 fusion (BD-T63); or (b) a T52-BD-T69 (BD-T69) fusion.
+Tests for pairwise interactions among T48. T49 activity of T50 carrying plasmids encoding the T52-AD (T53) or T52-AD fusions to the T56 indicated and T52-BD (T59); or (a) a T52-BD-T63 fusion (BD-T63); or (b) a T52-BD-T69 (BD-T69) fusion.
+Tests for pairwise interactions among T48. T49 activity of T50 carrying plasmids encoding the T52-AD (T53) or T52-AD fusions to the T56 indicated and T52-BD (T59); or (a) a T52-BD-T63 fusion (BD-T63); or (b) a T52-BD-T69 (BD-T69) fusion.
+Tests for pairwise interactions among T48. T49 activity of T50 carrying plasmids encoding the T52-AD (T53) or T52-AD fusions to the T56 indicated and T52-BD (T59); or (a) a T52-BD-T63 fusion (BD-T63); or (b) a T52-BD-T69 (BD-T69) fusion.
+Tests for pairwise interactions among T48. T49 activity of T50 carrying plasmids encoding the T52-AD (T53) or T52-AD fusions to the T56 indicated and T52-BD (T59); or (a) a T52-BD-T63 fusion (BD-T63); or (b) a T52-BD-T69 (BD-T69) fusion.
+Tests for pairwise interactions among T48. T49 activity of T50 carrying plasmids encoding the T52-AD (T53) or T52-AD fusions to the T56 indicated and T52-BD (T59); or (a) a T52-BD-T63 fusion (BD-T63); or (b) a T52-BD-T69 (BD-T69) fusion.
